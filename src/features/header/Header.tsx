@@ -1,7 +1,7 @@
 import logo from '@/assets/logo.png';
-import HeaderSearch from './HeaderSearch';
-import Hotline from './Hotline';
-import Navigation from './Navigation';
+import HeaderSearch from './HeaderSearch.tsx';
+import Hotline from './Hotline.tsx';
+import Navigation from './Navigation.tsx';
 
 function Header() {
     return (
